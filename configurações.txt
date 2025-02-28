@@ -10,3 +10,7 @@ instalar git
 botao direito, git bash
 colocar comando 
 git clone e endereço do repositorio
+
+configurar nome e senha
+git config --global user.nome ""
+git config --global user.email email@email.com
