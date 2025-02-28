@@ -1,0 +1,12 @@
+
+extensão; curso de automação
+----------------------------
+Python
+Dracula Theme Official
+Material Icon Theme
+
+colocar em novo computador
+instalar git
+botao direito, git bash
+colocar comando 
+git clone e endereço do repositorio
