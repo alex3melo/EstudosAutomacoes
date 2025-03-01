@@ -1,0 +1,16 @@
+
+extensão; curso de automação
+----------------------------
+Python
+Dracula Theme Official
+Material Icon Theme
+
+colocar em novo computador
+instalar git
+botao direito, git bash
+colocar comando 
+git clone e endereço do repositorio
+
+configurar nome e senha
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
