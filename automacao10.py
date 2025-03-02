@@ -39,7 +39,7 @@ pyautogui.click(nike[0],nike[1], duration=1.1)
 sleep(1.2)
 
 #pegar segunda imagem, pois a primeira esta definido como fixo
-reels = pyautogui.locateCenterOnScreen('botao-reels-instagram.png')
+reels = pyautogui.locateCenterOnScreen('botao-reels2-instagram.png')
 pyautogui.click(reels[0],reels[1]+200, duration=1.1)
 sleep(2.3)
 
