@@ -8,20 +8,6 @@ sleep(5)
 # login = pyautogui.locateCenterOnScreen('botao-nome-instagram.png')
 
 #conta salva, por acesso sem senha
-# pyautogui.click(login[0],login[1], duration=1)
-# sleep(1)
-# pyautogui.typewrite('alex3melo')
-# sleep(1.1)
-# senha = pyautogui.locateCenterOnScreen('senha-salva-instagram.png')
-# pyautogui.click(senha[0],senha[1], duration=1)
-# sleep(1)
-
-# #senha pc
-# pyautogui.typewrite('xx')
-# sleep(1)
-# entrar = pyautogui.locateCenterOnScreen('botao-entrar-instagram.png')
-# pyautogui.click(entrar[0],entrar[1], duration=1)
-
 
 localizar = pyautogui.locateCenterOnScreen('botao-localizar-instagram.png')
 pyautogui.click(localizar[0],localizar[1], duration=1.1)
